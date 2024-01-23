@@ -529,7 +529,7 @@ color: #e6e6e6;
 		}
 	
 /* Responsividade */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
     form {
         width: 100%;
         flex-direction: column;
