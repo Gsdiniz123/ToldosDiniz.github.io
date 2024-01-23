@@ -305,7 +305,7 @@ footer {
     
 }
 
-@media (max-width: 768px) {
+@media (max-width: 450px) {
     .content {
         justify-content: space-between;
         padding: 0px 40px;
@@ -408,7 +408,7 @@ footer {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 450px) {
     .sobre-nos img {
         width: 400px;
         margin-left: 10px;
@@ -439,7 +439,7 @@ footer {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 450px) {
 
     .conteudo-principal h1 {
        font-size: 3rem;
@@ -529,7 +529,7 @@ color: #e6e6e6;
 		}
 	
 /* Responsividade */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 450px) {
     form {
         width: 100%;
         flex-direction: column;
