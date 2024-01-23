@@ -503,15 +503,7 @@ button {
 
 button:hover {
     background-color: #45a049;
-}
 
-/* Responsividade */
-@media screen and (max-width: 600px) {
-    form {
-        width: 100%;
-        flex-direction: column;
-       
-    }
 }
 span{
 color: #e6e6e6;
@@ -535,4 +527,14 @@ color: #e6e6e6;
 		.fa-whatsapp {
 			margin-top: 16px;
 		}
+	
+/* Responsividade */
+@media screen and (max-width: 768px) {
+    form {
+        width: 100%;
+        flex-direction: column;
+       
+    }
+}
+
 	
